@@ -34,8 +34,8 @@
 
 возвращаем отсортированный массив.
 
- > string[] SortArray(string[] array1)
- > {
+  string[] SortArray(string[] array1)
+  {
       string sortArray = String.Empty;
       foreach (var item in array1)
       {
