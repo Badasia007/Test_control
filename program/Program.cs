@@ -2,6 +2,7 @@
 Console.WriteLine("Введите строки через запятую и пробел: ");
 string collection = Console.ReadLine()!;
 string[] array1 = collection.Split(", ");
+
 Console.WriteLine($"[{String.Join(", ", (array1))}] -> [{String.Join(", ", SortArray(array1))}]");
 
 string[] SortArray(string[] array1)
@@ -16,4 +17,5 @@ string[] SortArray(string[] array1)
     }
     string[] sortArray = sortString.TrimEnd().Split(" ");
     return sortArray;
+
 }
