@@ -1,0 +1,15 @@
+C:\Users\bogda\OneDrive\Рабочий стол\DZ\Test_control\program\bin\Debug\net6.0\program.exe
+C:\Users\bogda\OneDrive\Рабочий стол\DZ\Test_control\program\bin\Debug\net6.0\program.deps.json
+C:\Users\bogda\OneDrive\Рабочий стол\DZ\Test_control\program\bin\Debug\net6.0\program.runtimeconfig.json
+C:\Users\bogda\OneDrive\Рабочий стол\DZ\Test_control\program\bin\Debug\net6.0\program.dll
+C:\Users\bogda\OneDrive\Рабочий стол\DZ\Test_control\program\bin\Debug\net6.0\program.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\DZ\Test_control\program\obj\Debug\net6.0\program.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Рабочий стол\DZ\Test_control\program\obj\Debug\net6.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\OneDrive\Рабочий стол\DZ\Test_control\program\obj\Debug\net6.0\program.AssemblyInfoInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\DZ\Test_control\program\obj\Debug\net6.0\program.AssemblyInfo.cs
+C:\Users\bogda\OneDrive\Рабочий стол\DZ\Test_control\program\obj\Debug\net6.0\program.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\DZ\Test_control\program\obj\Debug\net6.0\program.dll
+C:\Users\bogda\OneDrive\Рабочий стол\DZ\Test_control\program\obj\Debug\net6.0\refint\program.dll
+C:\Users\bogda\OneDrive\Рабочий стол\DZ\Test_control\program\obj\Debug\net6.0\program.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\DZ\Test_control\program\obj\Debug\net6.0\program.genruntimeconfig.cache
+C:\Users\bogda\OneDrive\Рабочий стол\DZ\Test_control\program\obj\Debug\net6.0\ref\program.dll
